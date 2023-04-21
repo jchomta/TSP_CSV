@@ -11,7 +11,7 @@ app.use(cors())
 const db = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "Steven!782109",
+  password: "",
   database: "mta_dashboard"
 });
 
