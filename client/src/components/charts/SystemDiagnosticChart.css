@@ -1,0 +1,33 @@
+.SystemDiagnosticChart,
+.InactiveTSPChart {
+    position: inherit;
+    float: left;
+    margin: 0px 0px 50px 0px;
+    width: auto;
+    max-width: 450px;
+    border: 3px solid #00CD00;
+    padding: 100px;
+    font-family: Arial, Times, serif;
+}
+
+.InactiveTSPChart {
+    position: inherit;
+    float: right;
+    margin: 0px 0px 50px 0px;
+    width: auto;
+    max-width: 450px;
+    border: 3px solid #00CD00;
+    padding: 0;
+    font-family: Arial, Times, serif;
+}
+
+.SystemDiagnosticChart h1,
+.InactiveTSPChart h1 {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: Arial;
+    display: block;
+    background-color: #00CD00;
+    padding: 5px 0;
+}
